@@ -106,6 +106,9 @@ An event app where owners create events, share public invite links, and track RS
 
 <div align="center">
 
+![Shoaib's GitHub stats](https://shoaib-github-stats.vercel.app/api?username=ShoaibMurtazaWb&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://shoaib-github-stats.vercel.app/api/top-langs/?username=ShoaibMurtazaWb&layout=compact&hide_border=true&langs_count=8)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShoaibMurtazaWb&hide_border=true)
 
 </div>
