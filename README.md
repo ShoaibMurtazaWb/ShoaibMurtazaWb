@@ -9,6 +9,7 @@ I focus on clean architecture, authentication, authorization, and product-driven
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shoaibmurtaza.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibmurtazawb)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibmurtazawb@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shoaibmurtazawb/)
@@ -67,14 +68,17 @@ I focus on clean architecture, authentication, authorization, and product-driven
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[LendTrack](https://github.com/ShoaibMurtazaWb/LendTrack)** | Neighborhood lending tracker (PWA) with loans, reminders, realtime messaging, and Stripe billing. | Next.js · TypeScript · Supabase · PostgreSQL · Stripe |
-| **[Job Hunt Tracker](https://github.com/ShoaibMurtazaWb/Jop_Application_Tracker)** | Kanban job-application tracker with secure, user-scoped CRUD workflows. | Next.js · TypeScript · MongoDB · Mongoose · Better Auth |
-| **[Event Planner & RSVP](https://github.com/ShoaibMurtazaWb/Event-Planner-Application)** | Event platform with public invite links and guest RSVP tracking. | Next.js · TypeScript · PostgreSQL · Prisma · Neon Auth |
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **LendTrack** | Neighborhood lending tracker (PWA) with loans, reminders, realtime messaging, and Stripe billing. | Next.js · TypeScript · Supabase · PostgreSQL · Stripe | [Live](https://lend-track-psi.vercel.app/) · [Code](https://github.com/ShoaibMurtazaWb/LendTrack) |
+| **Job Hunt Tracker** | Kanban job-application tracker with secure, user-scoped CRUD workflows. | Next.js · TypeScript · MongoDB · Mongoose · Better Auth | [Live](https://jop-application-tracker-2jqy.vercel.app/) · [Code](https://github.com/ShoaibMurtazaWb/Jop_Application_Tracker) |
+| **Event Planner & RSVP** | Event platform with public invite links and guest RSVP tracking. | Next.js · TypeScript · PostgreSQL · Prisma · Neon Auth | [Live](https://event-planner-app-orcin.vercel.app/) · [Code](https://github.com/ShoaibMurtazaWb/Event-Planner-Application) |
+| **Shop.co** | Modern clothing brand e-commerce storefront with responsive UI. | React · JavaScript | [Live](https://shop-co-blush-two.vercel.app/) · [Code](https://github.com/ShoaibMurtazaWb/Shop.co) |
+| **BellHopt** | Online grocery and food delivery platform with cart and checkout flows. | React · Node.js · MongoDB | [Live](https://bel-hopt.vercel.app/) · [Code](https://github.com/ShoaibMurtazaWb/BelHopt) |
 
 ### LendTrack — Neighborhood Lending Tracker
 A full-stack PWA to manage item lending and borrowing with reminders, linked contacts, plan limits, and billing.
+[Live Demo](https://lend-track-psi.vercel.app/) · [Source](https://github.com/ShoaibMurtazaWb/LendTrack)
 - Supabase Postgres + Auth + Row Level Security for per-user data isolation
 - Realtime messaging and notification patterns
 - Stripe billing with database-enforced plan limits
@@ -82,6 +86,7 @@ A full-stack PWA to manage item lending and borrowing with reminders, linked con
 
 ### Job Hunt Tracker — Full-Stack Kanban App
 A Kanban-based job tracker focused on secure ownership validation and workflow movement.
+[Live Demo](https://jop-application-tracker-2jqy.vercel.app/) · [Source](https://github.com/ShoaibMurtazaWb/Jop_Application_Tracker)
 - Better Auth with a protected dashboard flow
 - MongoDB / Mongoose modeling for boards, columns, and applications
 - Server Actions for CRUD and workflow transitions
@@ -89,6 +94,7 @@ A Kanban-based job tracker focused on secure ownership validation and workflow m
 
 ### Event Planner & RSVP Management
 An event app where owners create events, share public invite links, and track RSVPs.
+[Live Demo](https://event-planner-app-orcin.vercel.app/) · [Source](https://github.com/ShoaibMurtazaWb/Event-Planner-Application)
 - Session-based auth with Neon Auth
 - Public invite token flow for guest RSVP without sign-up
 - Relational schema design with Prisma + PostgreSQL
