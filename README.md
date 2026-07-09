@@ -1,89 +1,58 @@
-# Hi, I'm Shoaib Murtaza
+<div align="center">
 
-Full-Stack Developer building secure, scalable web applications with modern TypeScript ecosystems.
+# Shoaib Murtaza
 
-I specialize in **Next.js, React, TypeScript, Node.js, MongoDB, PostgreSQL, and Supabase** with a strong focus on authentication, authorization, and clean product architecture.
+### Full-Stack Developer — Next.js · React · TypeScript · Node.js
 
-## Professional Snapshot
+Building secure, scalable web applications with modern TypeScript ecosystems.
+I focus on clean architecture, authentication, authorization, and product-driven engineering.
 
-- Build full-stack products end-to-end (UI, APIs, database, auth, deployment).
-- Design secure user-scoped workflows with server-side validation and ownership checks.
-- Develop production-ready dashboards, CRUD systems, and token-based public flows.
-- Work across both relational (PostgreSQL/Prisma) and document (MongoDB/Mongoose) data models.
+<br/>
 
-## Core Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibmurtazawb)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibmurtazawb@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shoaibmurtazawb/)
+[![Hireable](https://img.shields.io/badge/Open_to_Work-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShoaibMurtazaWb)
 
-**Frontend**  
-Next.js (App Router), React.js, TypeScript, JavaScript, Tailwind CSS, shadcn/ui
-
-**Backend & Architecture**  
-Node.js, Next.js Server Actions, API route design, authentication, authorization, protected routes, middleware patterns
-
-**Databases**  
-PostgreSQL, Prisma ORM, MongoDB, Mongoose, Supabase (Auth + RLS + Realtime)
-
-**Tools**  
-Git, GitHub, Vercel, Neon, Supabase CLI, npm
-
-## Featured Projects
-
-### LendTrack - Neighborhood Lending Tracker
-
-A full-stack PWA where users manage item lending/borrowing with reminders, linked contacts, plan limits, and billing workflows.
-
-**Highlights**
-- Supabase Postgres + Auth + RLS based data isolation
-- Realtime messaging and notification patterns
-- Stripe billing integration with plan enforcement
-- Monorepo architecture with Next.js app and shared types
-
-Tech: Next.js, TypeScript, Supabase, PostgreSQL, TanStack Query, Stripe, Tailwind CSS
-
-Repo: [LendTrack](https://github.com/ShoaibMurtazaWb/LendTrack)
+</div>
 
 ---
 
-### Job Hunt Tracker - Full Stack Kanban App
+## About Me
 
-A Kanban-based job application tracker focused on secure ownership validation, workflow movement, and dashboard updates.
-
-**Highlights**
-- Better Auth + protected dashboard flow
-- MongoDB/Mongoose modeling for boards, columns, and job applications
-- Server Actions for CRUD and workflow transitions
-- User-specific data access with authorization checks
-
-Tech: Next.js, TypeScript, MongoDB, Mongoose, Better Auth, Tailwind CSS
-
-Repo: [Jop_Application_Tracker](https://github.com/ShoaibMurtazaWb/Jop_Application_Tracker)
+- Full-Stack Developer building end-to-end products: UI, APIs, databases, auth, and deployment.
+- Design secure, user-scoped workflows with server-side validation and ownership checks.
+- Comfortable across relational (PostgreSQL / Prisma) and document (MongoDB / Mongoose) data models.
+- Focused on maintainable, modular architecture and reusable UI systems.
+- Based in Pakistan · Open to full-stack roles and freelance work.
 
 ---
 
-### Event Planner & RSVP Management
+## Tech Stack
 
-A full-stack event app where owners create events, generate public invite links, and track guest RSVP responses.
+**Frontend**
 
-**Highlights**
-- Session-based auth with Neon Auth
-- Public invite token flow with guest RSVP
-- Relational schema design with Prisma + PostgreSQL
-- Dashboard analytics for event-level RSVP status counts
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-Tech: Next.js, TypeScript, PostgreSQL, Prisma ORM, Neon Auth, Tailwind CSS, shadcn/ui
+**Backend & Architecture**
 
-Repo: [Event-Planner-Application](https://github.com/ShoaibMurtazaWb/Event-Planner-Application)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Server Actions](https://img.shields.io/badge/Next.js_Server_Actions-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![Auth](https://img.shields.io/badge/Auth_&_Authorization-4B5563?style=flat-square&logo=auth0&logoColor=white)
 
-## What I Focus On
+**Databases & Services**
 
-- Secure full-stack architecture
-- Clean, modular code organization
-- Reusable UI systems
-- Scalable data modeling
-- Product-focused engineering
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
 
-## Contact
-
-- GitHub: [@ShoaibMurtazaWb](https://github.com/ShoaibMurtazaWb)
-- LinkedIn: add your profile URL
-- Portfolio: add your portfolio URL
-- Email: add your professional email
+**Tools 
