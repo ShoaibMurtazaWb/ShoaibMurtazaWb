@@ -55,4 +55,77 @@ I focus on clean architecture, authentication, authorization, and product-driven
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
 
-**Tools 
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[LendTrack](https://github.com/ShoaibMurtazaWb/LendTrack)** | Neighborhood lending tracker (PWA) with loans, reminders, realtime messaging, and Stripe billing. | Next.js · TypeScript · Supabase · PostgreSQL · Stripe |
+| **[Job Hunt Tracker](https://github.com/ShoaibMurtazaWb/Jop_Application_Tracker)** | Kanban job-application tracker with secure, user-scoped CRUD workflows. | Next.js · TypeScript · MongoDB · Mongoose · Better Auth |
+| **[Event Planner & RSVP](https://github.com/ShoaibMurtazaWb/Event-Planner-Application)** | Event platform with public invite links and guest RSVP tracking. | Next.js · TypeScript · PostgreSQL · Prisma · Neon Auth |
+
+### LendTrack — Neighborhood Lending Tracker
+A full-stack PWA to manage item lending and borrowing with reminders, linked contacts, plan limits, and billing.
+- Supabase Postgres + Auth + Row Level Security for per-user data isolation
+- Realtime messaging and notification patterns
+- Stripe billing with database-enforced plan limits
+- Monorepo architecture with a Next.js app and shared types
+
+### Job Hunt Tracker — Full-Stack Kanban App
+A Kanban-based job tracker focused on secure ownership validation and workflow movement.
+- Better Auth with a protected dashboard flow
+- MongoDB / Mongoose modeling for boards, columns, and applications
+- Server Actions for CRUD and workflow transitions
+- User-scoped authorization on every mutation
+
+### Event Planner & RSVP Management
+An event app where owners create events, share public invite links, and track RSVPs.
+- Session-based auth with Neon Auth
+- Public invite token flow for guest RSVP without sign-up
+- Relational schema design with Prisma + PostgreSQL
+- Dashboard analytics for event-level RSVP counts
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShoaibMurtazaWb&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoaibMurtazaWb&layout=compact&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShoaibMurtazaWb&hide_border=true)
+
+</div>
+
+---
+
+## What I Focus On
+
+- Secure full-stack architecture and server-side authorization
+- Clean, modular, and maintainable code organization
+- Reusable UI systems and responsive interfaces
+- Scalable relational and document data modeling
+- Product-focused engineering and real-world problem solving
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibmurtazawb)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibmurtazawb@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shoaibmurtazawb/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShoaibMurtazaWb)
+
+</div>
