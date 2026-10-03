@@ -253,22 +253,22 @@ E-commerce storefront and grocery/food delivery platform with cart & checkout fl
 
 <div align="center">
 
-<img height="180em" src="https://shoaib-github-stats.vercel.app/api?username=ShoaibMurtazaWb&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="stats" />
+<!-- <img height="180em" src="https://shoaib-github-stats.vercel.app/api?username=ShoaibMurtazaWb&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="stats" /> -->
 <img height="180em" src="https://shoaib-github-stats.vercel.app/api/top-langs/?username=ShoaibMurtazaWb&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top langs" />
 
 <br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=ShoaibMurtazaWb&hide_border=true&theme=tokyonight" alt="streak" />
+<img width="80%" src="https://streak-stats.demolab.com?user=ShoaibMurtazaWb&hide_border=true&theme=tokyonight" alt="streak" />
 
 <br/>
 
 <!-- Animated contribution activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShoaibMurtazaWb&bg_color=1a1b27&color=3FCF8E&line=3FCF8E&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShoaibMurtazaWb&bg_color=1a1b27&color=3FCF8E&line=3FCF8E&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
-<br/>
+<br/> -->
 
 <!-- Trophy showcase -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ShoaibMurtazaWb&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+<!-- <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ShoaibMurtazaWb&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" /> -->
 
 </div>
 
